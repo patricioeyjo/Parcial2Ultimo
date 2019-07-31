@@ -1,2 +1,3 @@
 # Parcial2Ultimo
-peliculas
+
+abri el archivo LEEME cuando descomprimas
